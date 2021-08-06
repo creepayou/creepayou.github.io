@@ -171,6 +171,7 @@ SIDEBAR + RIGHT COLUMN
 */
 #sidebar {
   padding-top: 2.5rem;
+  background-image: linear-gradient(red, yellow, green);
 }
 
 @media (min-width: 576px) {
